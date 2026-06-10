@@ -4,10 +4,6 @@
 Baue ein lokales Dashboard für den Hugging-Face-Datensatz:
 HHS-Official/nutrition-physical-activity-and-obesity-behavioral
 
-## Wichtig
-Ich bin Anfänger. Erkläre nach jedem größeren Schritt kurz, was gemacht wurde.
-Arbeite nicht in einem Cloudflare-Projekt. Dieses Projekt soll lokal laufen.
-
 ## Tech-Stack
 - Backend: Python, FastAPI, pandas, datasets
 - Frontend: React, TypeScript, Vite, Tailwind CSS, shadcn/ui, Recharts
@@ -87,4 +83,3 @@ Diagramme:
 Wichtig:
 
 * Die Oberfläche soll wie ein echtes Data-/BI-Dashboard wirken.
-* Nicht nur funktional, sondern auch präsentationsfähig für eine Hochschulabgabe.
